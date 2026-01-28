@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/farelldev/daily-leetcode-journey/tree/master/0011-container-with-most-water) |
+| [0268-missing-number](https://github.com/farelldev/daily-leetcode-journey/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -15,4 +16,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/farelldev/daily-leetcode-journey/tree/master/0011-container-with-most-water) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/farelldev/daily-leetcode-journey/tree/master/0268-missing-number) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/farelldev/daily-leetcode-journey/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/farelldev/daily-leetcode-journey/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/farelldev/daily-leetcode-journey/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/farelldev/daily-leetcode-journey/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
