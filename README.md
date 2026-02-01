@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/farelldev/daily-leetcode-journey/tree/master/0070-climbing-stairs) |
 | [0300-longest-increasing-subsequence](https://github.com/farelldev/daily-leetcode-journey/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/farelldev/daily-leetcode-journey/tree/master/0322-coin-change) |
+| [1143-longest-common-subsequence](https://github.com/farelldev/daily-leetcode-journey/tree/master/1143-longest-common-subsequence) |
 ## Memoization
 |  |
 | ------- |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/farelldev/daily-leetcode-journey/tree/master/0322-coin-change) |
+## String
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/farelldev/daily-leetcode-journey/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
