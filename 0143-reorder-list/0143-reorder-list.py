@@ -5,29 +5,39 @@
 #         self.next = next
 class Solution:
     def reorderList(self, head: Optional[ListNode]) -> None:
-        s, f = head, head.next
+        if not head or not head.next:
+            return
 
-        while f and f.next:
-            s = s.next
-            f = f.next.next
+        # get first & second half
+        slow, fast = head, head.next
+        while fast and fast.next:
+            slow = slow.next
+            fast = fast.next.next
 
-        fst = head
-        snd = s
-        curr = snd.next
+        # reverse the second half
+        first = head
+        second = slow
+        curr = second.next
+
         while curr:
             nxt = curr.next
-            curr.next = snd
-            snd = curr
+            curr.next = second
+            second = curr
             curr = nxt
 
-        while snd != fst:
-            nxt = fst.next
-            prev = snd.next
+        # reorder the list
+        while second != first:
+            first_next = first.next
+            second_next = second.next
 
-            fst.next = snd
-            fst = nxt
-            if snd == fst: break
-            snd.next = fst
-            snd = prev
+            first.next = second
+            first = first_next
 
-        fst.next = None
+            if second == first:
+                break
+
+            second.next = first
+            second = second_next
+
+        # cut the edge
+        first.next = None
