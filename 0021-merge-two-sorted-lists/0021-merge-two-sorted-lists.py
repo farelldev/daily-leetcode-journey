@@ -11,13 +11,8 @@ class Solution:
         curr = res
 
         while curr1 or curr2:
-            if not curr1:
-                curr.next = curr2
-                curr2 = None
-                break
-            if not curr2:
-                curr.next = curr1
-                curr1 = None
+            if not curr1 or not curr2:
+                curr.next = curr2 if curr2 else curr1
                 break
 
             if curr1.val < curr2.val:
