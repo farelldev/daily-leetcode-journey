@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/farelldev/daily-leetcode-journey/tree/master/1929-concatenation-of-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/farelldev/daily-leetcode-journey/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3379-transformed-array](https://github.com/farelldev/daily-leetcode-journey/tree/master/3379-transformed-array) |
+| [3637-trionic-array-i](https://github.com/farelldev/daily-leetcode-journey/tree/master/3637-trionic-array-i) |
 ## Two Pointers
 |  |
 | ------- |
