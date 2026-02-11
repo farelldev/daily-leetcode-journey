@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/farelldev/daily-leetcode-journey/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/farelldev/daily-leetcode-journey/tree/master/0322-coin-change) |
 ## String
 |  |
@@ -109,4 +110,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/farelldev/daily-leetcode-journey/tree/master/0139-word-break) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/farelldev/daily-leetcode-journey/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/farelldev/daily-leetcode-journey/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/farelldev/daily-leetcode-journey/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
