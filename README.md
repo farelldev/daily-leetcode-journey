@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/farelldev/daily-leetcode-journey/tree/master/0020-valid-parentheses) |
 | [0139-word-break](https://github.com/farelldev/daily-leetcode-journey/tree/master/0139-word-break) |
 | [1143-longest-common-subsequence](https://github.com/farelldev/daily-leetcode-journey/tree/master/1143-longest-common-subsequence) |
 ## Enumeration
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/farelldev/daily-leetcode-journey/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/farelldev/daily-leetcode-journey/tree/master/0143-reorder-list) |
 ## Trie
 |  |
