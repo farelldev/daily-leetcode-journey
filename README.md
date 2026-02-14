@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/farelldev/daily-leetcode-journey/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/farelldev/daily-leetcode-journey/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/farelldev/daily-leetcode-journey/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/farelldev/daily-leetcode-journey/tree/master/0645-set-mismatch) |
 | [1470-shuffle-the-array](https://github.com/farelldev/daily-leetcode-journey/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/farelldev/daily-leetcode-journey/tree/master/1929-concatenation-of-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/farelldev/daily-leetcode-journey/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/farelldev/daily-leetcode-journey/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/farelldev/daily-leetcode-journey/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/farelldev/daily-leetcode-journey/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/farelldev/daily-leetcode-journey/tree/master/0645-set-mismatch) |
 ## Math
 |  |
 | ------- |
@@ -55,10 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/farelldev/daily-leetcode-journey/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/farelldev/daily-leetcode-journey/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/farelldev/daily-leetcode-journey/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/farelldev/daily-leetcode-journey/tree/master/0645-set-mismatch) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/farelldev/daily-leetcode-journey/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Simulation
 |  |
