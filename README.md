@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/farelldev/daily-leetcode-journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/farelldev/daily-leetcode-journey/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/farelldev/daily-leetcode-journey/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/farelldev/daily-leetcode-journey/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/farelldev/daily-leetcode-journey/tree/master/0322-coin-change) |
 ## String
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/farelldev/daily-leetcode-journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/farelldev/daily-leetcode-journey/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/farelldev/daily-leetcode-journey/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/farelldev/daily-leetcode-journey/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
@@ -152,8 +154,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/farelldev/daily-leetcode-journey/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/farelldev/daily-leetcode-journey/tree/master/0207-course-schedule) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/farelldev/daily-leetcode-journey/tree/master/0190-reverse-bits) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/farelldev/daily-leetcode-journey/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
