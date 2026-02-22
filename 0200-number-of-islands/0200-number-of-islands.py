@@ -3,16 +3,18 @@ class Solution:
         ans = 0
 
         def dfs(x, y):
-            grid[y][x] = '0'
+            outX = x < 0 or x > len(grid[0]) - 1
+            outY = y < 0 or y > len(grid) - 1
+            outBound = outX or outY
 
-            if y < len(grid) - 1 and grid[y+1][x] == '1':
-                dfs(x, y+1)
-            if y != 0 and grid[y-1][x] == '1':
-                dfs(x, y-1)
-            if x < len(grid[y]) - 1 and grid[y][x+1] == '1':
-                dfs(x+1, y)
-            if x != 0 and grid[y][x-1] == '1':
-                dfs(x-1, y)
+            if outBound or grid[y][x] == '0':
+                return
+
+            grid[y][x] = '0'
+            dfs(x+1,y)
+            dfs(x-1,y)
+            dfs(x,y+1)
+            dfs(x,y-1)
         
         for i in range(len(grid)):
             for j in range(len(grid[i])):
