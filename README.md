@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/farelldev/daily-leetcode-journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/farelldev/daily-leetcode-journey/tree/master/0226-invert-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/farelldev/daily-leetcode-journey/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -154,11 +155,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/farelldev/daily-leetcode-journey/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/farelldev/daily-leetcode-journey/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/farelldev/daily-leetcode-journey/tree/master/0417-pacific-atlantic-water-flow) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/farelldev/daily-leetcode-journey/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/farelldev/daily-leetcode-journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/farelldev/daily-leetcode-journey/tree/master/0226-invert-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/farelldev/daily-leetcode-journey/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Backtracking
 |  |
 | ------- |
