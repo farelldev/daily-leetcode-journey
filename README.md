@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/farelldev/daily-leetcode-journey/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/farelldev/daily-leetcode-journey/tree/master/0039-combination-sum) |
 | [0055-jump-game](https://github.com/farelldev/daily-leetcode-journey/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/farelldev/daily-leetcode-journey/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/farelldev/daily-leetcode-journey/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/farelldev/daily-leetcode-journey/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/farelldev/daily-leetcode-journey/tree/master/0128-longest-consecutive-sequence) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/farelldev/daily-leetcode-journey/tree/master/0056-merge-intervals) |
 | [0268-missing-number](https://github.com/farelldev/daily-leetcode-journey/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/farelldev/daily-leetcode-journey/tree/master/0645-set-mismatch) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/farelldev/daily-leetcode-journey/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
