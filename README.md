@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/farelldev/daily-leetcode-journey/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/farelldev/daily-leetcode-journey/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/farelldev/daily-leetcode-journey/tree/master/0417-pacific-atlantic-water-flow) |
+| [0435-non-overlapping-intervals](https://github.com/farelldev/daily-leetcode-journey/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/farelldev/daily-leetcode-journey/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/farelldev/daily-leetcode-journey/tree/master/0645-set-mismatch) |
 | [1470-shuffle-the-array](https://github.com/farelldev/daily-leetcode-journey/tree/master/1470-shuffle-the-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/farelldev/daily-leetcode-journey/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/farelldev/daily-leetcode-journey/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/farelldev/daily-leetcode-journey/tree/master/0435-non-overlapping-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/farelldev/daily-leetcode-journey/tree/master/0056-merge-intervals) |
 | [0268-missing-number](https://github.com/farelldev/daily-leetcode-journey/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/farelldev/daily-leetcode-journey/tree/master/0435-non-overlapping-intervals) |
 | [0645-set-mismatch](https://github.com/farelldev/daily-leetcode-journey/tree/master/0645-set-mismatch) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/farelldev/daily-leetcode-journey/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Simulation
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/farelldev/daily-leetcode-journey/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/farelldev/daily-leetcode-journey/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/farelldev/daily-leetcode-journey/tree/master/0322-coin-change) |
+| [0435-non-overlapping-intervals](https://github.com/farelldev/daily-leetcode-journey/tree/master/0435-non-overlapping-intervals) |
 | [1143-longest-common-subsequence](https://github.com/farelldev/daily-leetcode-journey/tree/master/1143-longest-common-subsequence) |
 ## Memoization
 |  |
