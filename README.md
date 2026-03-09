@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/farelldev/daily-leetcode-journey/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/farelldev/daily-leetcode-journey/tree/master/0435-non-overlapping-intervals) |
 | [1143-longest-common-subsequence](https://github.com/farelldev/daily-leetcode-journey/tree/master/1143-longest-common-subsequence) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/farelldev/daily-leetcode-journey/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Memoization
 |  |
 | ------- |
@@ -199,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/farelldev/daily-leetcode-journey/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/farelldev/daily-leetcode-journey/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/farelldev/daily-leetcode-journey/tree/master/0417-pacific-atlantic-water-flow) |
+## Prefix Sum
+|  |
+| ------- |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/farelldev/daily-leetcode-journey/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 <!---LeetCode Topics End-->
