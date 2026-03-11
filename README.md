@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/farelldev/daily-leetcode-journey/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/farelldev/daily-leetcode-journey/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/farelldev/daily-leetcode-journey/tree/master/0693-binary-number-with-alternating-bits) |
+| [1009-complement-of-base-10-integer](https://github.com/farelldev/daily-leetcode-journey/tree/master/1009-complement-of-base-10-integer) |
 ## Sorting
 |  |
 | ------- |
