@@ -1,17 +1,27 @@
 class Solution:
     def spiralOrder(self, matrix: List[List[int]]) -> List[int]:
-        rows, cols = len(matrix), len(matrix[0])
-        x, y, dx, dy = 0, 0, 1, 0
         res = []
 
-        for _ in range(rows * cols):
-            res.append(matrix[y][x])
-            matrix[y][x] = "."
+        left, right = 0, len(matrix[0])
+        top, bottom = 0, len(matrix)
 
-            if not 0 <= x + dx < cols or not 0 <= y + dy < rows or matrix[y+dy][x+dx] == ".":
-                dx, dy = -dy, dx
-            
-            x += dx
-            y += dy
-        
+        while left < right and top < bottom:
+            for i in range(left, right):
+                res.append(matrix[top][i])
+            top += 1
+
+            for i in range(top, bottom):
+                res.append(matrix[i][right-1])
+            right -= 1
+
+            if not (left < right and top < bottom): break
+
+            for i in range(right-1, left-1, -1):
+                res.append(matrix[bottom-1][i])
+            bottom -= 1
+
+            for i in range(bottom-1, top-1, -1):
+                res.append(matrix[i][left])
+            left += 1
+
         return res
