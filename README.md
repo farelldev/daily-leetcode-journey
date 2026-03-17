@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/farelldev/daily-leetcode-journey/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/farelldev/daily-leetcode-journey/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/farelldev/daily-leetcode-journey/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/farelldev/daily-leetcode-journey/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/farelldev/daily-leetcode-journey/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/farelldev/daily-leetcode-journey/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/farelldev/daily-leetcode-journey/tree/master/0198-house-robber) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/farelldev/daily-leetcode-journey/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/farelldev/daily-leetcode-journey/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/farelldev/daily-leetcode-journey/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/farelldev/daily-leetcode-journey/tree/master/0139-word-break) |
 | [0696-count-binary-substrings](https://github.com/farelldev/daily-leetcode-journey/tree/master/0696-count-binary-substrings) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/farelldev/daily-leetcode-journey/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/farelldev/daily-leetcode-journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/farelldev/daily-leetcode-journey/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/farelldev/daily-leetcode-journey/tree/master/0200-number-of-islands) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/farelldev/daily-leetcode-journey/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/farelldev/daily-leetcode-journey/tree/master/0079-word-search) |
 ## Graph Theory
 |  |
 | ------- |
@@ -202,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/farelldev/daily-leetcode-journey/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/farelldev/daily-leetcode-journey/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/farelldev/daily-leetcode-journey/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/farelldev/daily-leetcode-journey/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/farelldev/daily-leetcode-journey/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/farelldev/daily-leetcode-journey/tree/master/0417-pacific-atlantic-water-flow) |
 ## Prefix Sum
