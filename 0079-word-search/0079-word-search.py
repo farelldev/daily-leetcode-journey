@@ -1,7 +1,7 @@
 class Solution:
     def exist(self, board, word):
         rows, cols = len(board), len(board[0])
-        path = set()
+        seen = set()
 
         def dfs(r, c, i):
             if i == len(word):
@@ -11,11 +11,11 @@ class Solution:
                 r < 0 or c < 0 or
                 r >= rows or c >= cols or
                 word[i] != board[r][c] or
-                (r, c) in path
+                (r, c) in seen
             ):
                 return False
 
-            path.add((r, c))
+            seen.add((r, c))
 
             res = (
                 dfs(r + 1, c, i + 1) or
@@ -24,7 +24,7 @@ class Solution:
                 dfs(r, c - 1, i + 1)
             )
 
-            path.remove((r, c))
+            seen.remove((r, c))
             return res
 
         for r in range(rows):
