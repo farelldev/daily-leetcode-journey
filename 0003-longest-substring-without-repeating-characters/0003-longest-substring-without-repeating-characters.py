@@ -4,7 +4,7 @@ class Solution:
         
         res = l = 0
         for r in range(1, len(s) + 1):
-            res = max(res, len(s[l:r]))
+            res = max(res, len(set(s[l:r])))
 
             if r == len(s): break
             while s[r] in set(s[l:r]):
