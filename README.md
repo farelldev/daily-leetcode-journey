@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/farelldev/daily-leetcode-journey/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/farelldev/daily-leetcode-journey/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/farelldev/daily-leetcode-journey/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/farelldev/daily-leetcode-journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0645-set-mismatch](https://github.com/farelldev/daily-leetcode-journey/tree/master/0645-set-mismatch) |
 ## Math
 |  |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/farelldev/daily-leetcode-journey/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/farelldev/daily-leetcode-journey/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/farelldev/daily-leetcode-journey/tree/master/0139-word-break) |
+| [0424-longest-repeating-character-replacement](https://github.com/farelldev/daily-leetcode-journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0696-count-binary-substrings](https://github.com/farelldev/daily-leetcode-journey/tree/master/0696-count-binary-substrings) |
 | [1143-longest-common-subsequence](https://github.com/farelldev/daily-leetcode-journey/tree/master/1143-longest-common-subsequence) |
 ## Enumeration
@@ -223,4 +225,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/farelldev/daily-leetcode-journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/farelldev/daily-leetcode-journey/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
