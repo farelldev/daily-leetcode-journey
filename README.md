@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/farelldev/daily-leetcode-journey/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/farelldev/daily-leetcode-journey/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/farelldev/daily-leetcode-journey/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/farelldev/daily-leetcode-journey/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/farelldev/daily-leetcode-journey/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/farelldev/daily-leetcode-journey/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/farelldev/daily-leetcode-journey/tree/master/0056-merge-intervals) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/farelldev/daily-leetcode-journey/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/farelldev/daily-leetcode-journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/farelldev/daily-leetcode-journey/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/farelldev/daily-leetcode-journey/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/farelldev/daily-leetcode-journey/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/farelldev/daily-leetcode-journey/tree/master/0133-clone-graph) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/farelldev/daily-leetcode-journey/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/farelldev/daily-leetcode-journey/tree/master/0056-merge-intervals) |
 | [0268-missing-number](https://github.com/farelldev/daily-leetcode-journey/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/farelldev/daily-leetcode-journey/tree/master/0435-non-overlapping-intervals) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/farelldev/daily-leetcode-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/farelldev/daily-leetcode-journey/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/farelldev/daily-leetcode-journey/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/farelldev/daily-leetcode-journey/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/farelldev/daily-leetcode-journey/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/farelldev/daily-leetcode-journey/tree/master/0125-valid-palindrome) |
