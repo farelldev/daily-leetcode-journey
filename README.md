@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/farelldev/daily-leetcode-journey/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/farelldev/daily-leetcode-journey/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/farelldev/daily-leetcode-journey/tree/master/0143-reorder-list) |
+| [0647-palindromic-substrings](https://github.com/farelldev/daily-leetcode-journey/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/farelldev/daily-leetcode-journey/tree/master/0696-count-binary-substrings) |
 ## Greedy
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/farelldev/daily-leetcode-journey/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/farelldev/daily-leetcode-journey/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/farelldev/daily-leetcode-journey/tree/master/0435-non-overlapping-intervals) |
+| [0647-palindromic-substrings](https://github.com/farelldev/daily-leetcode-journey/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/farelldev/daily-leetcode-journey/tree/master/1143-longest-common-subsequence) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/farelldev/daily-leetcode-journey/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Memoization
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/farelldev/daily-leetcode-journey/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/farelldev/daily-leetcode-journey/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/farelldev/daily-leetcode-journey/tree/master/0424-longest-repeating-character-replacement) |
+| [0647-palindromic-substrings](https://github.com/farelldev/daily-leetcode-journey/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/farelldev/daily-leetcode-journey/tree/master/0696-count-binary-substrings) |
 | [1143-longest-common-subsequence](https://github.com/farelldev/daily-leetcode-journey/tree/master/1143-longest-common-subsequence) |
 ## Enumeration
