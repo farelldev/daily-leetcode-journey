@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/farelldev/daily-leetcode-journey/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/farelldev/daily-leetcode-journey/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/farelldev/daily-leetcode-journey/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/farelldev/daily-leetcode-journey/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/farelldev/daily-leetcode-journey/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/farelldev/daily-leetcode-journey/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/farelldev/daily-leetcode-journey/tree/master/0322-coin-change) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/farelldev/daily-leetcode-journey/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/farelldev/daily-leetcode-journey/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/farelldev/daily-leetcode-journey/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/farelldev/daily-leetcode-journey/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/farelldev/daily-leetcode-journey/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/farelldev/daily-leetcode-journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0645-set-mismatch](https://github.com/farelldev/daily-leetcode-journey/tree/master/0645-set-mismatch) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/farelldev/daily-leetcode-journey/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/farelldev/daily-leetcode-journey/tree/master/0056-merge-intervals) |
+| [0217-contains-duplicate](https://github.com/farelldev/daily-leetcode-journey/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/farelldev/daily-leetcode-journey/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/farelldev/daily-leetcode-journey/tree/master/0435-non-overlapping-intervals) |
 | [0645-set-mismatch](https://github.com/farelldev/daily-leetcode-journey/tree/master/0645-set-mismatch) |
