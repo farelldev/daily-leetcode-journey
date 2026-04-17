@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/farelldev/daily-leetcode-journey/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/farelldev/daily-leetcode-journey/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/farelldev/daily-leetcode-journey/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/farelldev/daily-leetcode-journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/farelldev/daily-leetcode-journey/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/farelldev/daily-leetcode-journey/tree/master/0417-pacific-atlantic-water-flow) |
 ## String
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/farelldev/daily-leetcode-journey/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/farelldev/daily-leetcode-journey/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/farelldev/daily-leetcode-journey/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/farelldev/daily-leetcode-journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/farelldev/daily-leetcode-journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/farelldev/daily-leetcode-journey/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/farelldev/daily-leetcode-journey/tree/master/0696-count-binary-substrings) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/farelldev/daily-leetcode-journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/farelldev/daily-leetcode-journey/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/farelldev/daily-leetcode-journey/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/farelldev/daily-leetcode-journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/farelldev/daily-leetcode-journey/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/farelldev/daily-leetcode-journey/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/farelldev/daily-leetcode-journey/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/farelldev/daily-leetcode-journey/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/farelldev/daily-leetcode-journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/farelldev/daily-leetcode-journey/tree/master/0417-pacific-atlantic-water-flow) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/farelldev/daily-leetcode-journey/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
@@ -224,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/farelldev/daily-leetcode-journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/farelldev/daily-leetcode-journey/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/farelldev/daily-leetcode-journey/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/farelldev/daily-leetcode-journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/farelldev/daily-leetcode-journey/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Backtracking
 |  |
@@ -281,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/farelldev/daily-leetcode-journey/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/farelldev/daily-leetcode-journey/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/farelldev/daily-leetcode-journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
