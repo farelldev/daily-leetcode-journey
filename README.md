@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/farelldev/daily-leetcode-journey/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/farelldev/daily-leetcode-journey/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/farelldev/daily-leetcode-journey/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/farelldev/daily-leetcode-journey/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/farelldev/daily-leetcode-journey/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/farelldev/daily-leetcode-journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/farelldev/daily-leetcode-journey/tree/master/0424-longest-repeating-character-replacement) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/farelldev/daily-leetcode-journey/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/farelldev/daily-leetcode-journey/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/farelldev/daily-leetcode-journey/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Tree
 |  |
 | ------- |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/farelldev/daily-leetcode-journey/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/farelldev/daily-leetcode-journey/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/farelldev/daily-leetcode-journey/tree/master/0207-course-schedule) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/farelldev/daily-leetcode-journey/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/farelldev/daily-leetcode-journey/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/farelldev/daily-leetcode-journey/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/farelldev/daily-leetcode-journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -293,5 +296,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/farelldev/daily-leetcode-journey/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/farelldev/daily-leetcode-journey/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/farelldev/daily-leetcode-journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
