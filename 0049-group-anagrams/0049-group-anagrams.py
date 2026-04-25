@@ -1,21 +1,12 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        pair = {}
-        res = []
-        
+        groups = {}
+
         for word in strs:
-            freq = [0] * 26
+            key = "".join(sorted(word))
+            
+            if key not in groups:
+                groups[key] = [word]
+            else: groups[key].append(word)
 
-            for lett in word:
-                freq[ord(lett) - 97] += 1
-            freq = tuple(freq)
-
-            if freq not in pair:
-                pair[freq] = [word]
-            else:
-                pair[freq].append(word)
-        
-        for key in pair:
-            res.append(pair[key])
-
-        return res
+        return list(groups.values())
