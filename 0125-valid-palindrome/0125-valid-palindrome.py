@@ -3,7 +3,7 @@ class Solution:
         clean = []
 
         for i in s:
-            if i.isdigit(): clean.append(i)
-            if i.isalpha(): clean.append(i.lower())
-
+            if i.isalnum():
+                clean.append(i.lower())
+        
         return clean == clean[::-1]
