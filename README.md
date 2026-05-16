@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/farelldev/daily-leetcode-journey/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/farelldev/daily-leetcode-journey/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/farelldev/daily-leetcode-journey/tree/master/0645-set-mismatch) |
+| [0853-car-fleet](https://github.com/farelldev/daily-leetcode-journey/tree/master/0853-car-fleet) |
 | [1470-shuffle-the-array](https://github.com/farelldev/daily-leetcode-journey/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/farelldev/daily-leetcode-journey/tree/master/1929-concatenation-of-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/farelldev/daily-leetcode-journey/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/farelldev/daily-leetcode-journey/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/farelldev/daily-leetcode-journey/tree/master/0435-non-overlapping-intervals) |
 | [0645-set-mismatch](https://github.com/farelldev/daily-leetcode-journey/tree/master/0645-set-mismatch) |
+| [0853-car-fleet](https://github.com/farelldev/daily-leetcode-journey/tree/master/0853-car-fleet) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/farelldev/daily-leetcode-journey/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Simulation
 |  |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/farelldev/daily-leetcode-journey/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/farelldev/daily-leetcode-journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/farelldev/daily-leetcode-journey/tree/master/0155-min-stack) |
+| [0853-car-fleet](https://github.com/farelldev/daily-leetcode-journey/tree/master/0853-car-fleet) |
 ## Trie
 |  |
 | ------- |
@@ -368,4 +371,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/farelldev/daily-leetcode-journey/tree/master/0042-trapping-rain-water) |
+| [0853-car-fleet](https://github.com/farelldev/daily-leetcode-journey/tree/master/0853-car-fleet) |
 <!---LeetCode Topics End-->
