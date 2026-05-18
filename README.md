@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/farelldev/daily-leetcode-journey/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/farelldev/daily-leetcode-journey/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/farelldev/daily-leetcode-journey/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/farelldev/daily-leetcode-journey/tree/master/0704-binary-search) |
 | [0853-car-fleet](https://github.com/farelldev/daily-leetcode-journey/tree/master/0853-car-fleet) |
 | [1470-shuffle-the-array](https://github.com/farelldev/daily-leetcode-journey/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/farelldev/daily-leetcode-journey/tree/master/1929-concatenation-of-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/farelldev/daily-leetcode-journey/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/farelldev/daily-leetcode-journey/tree/master/0300-longest-increasing-subsequence) |
+| [0704-binary-search](https://github.com/farelldev/daily-leetcode-journey/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
