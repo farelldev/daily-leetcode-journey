@@ -3,7 +3,6 @@ class Solution:
         count = {}
         freq = [[] for _ in range(len(nums) + 1)]
 
-        # Hitung frekuensi tiap angka
         for n in nums:
             count[n] = 1 + count.get(n, 0)
 
