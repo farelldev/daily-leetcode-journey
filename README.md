@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/farelldev/daily-leetcode-journey/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/farelldev/daily-leetcode-journey/tree/master/0704-binary-search) |
 | [0853-car-fleet](https://github.com/farelldev/daily-leetcode-journey/tree/master/0853-car-fleet) |
+| [0875-koko-eating-bananas](https://github.com/farelldev/daily-leetcode-journey/tree/master/0875-koko-eating-bananas) |
 | [1470-shuffle-the-array](https://github.com/farelldev/daily-leetcode-journey/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/farelldev/daily-leetcode-journey/tree/master/1929-concatenation-of-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/farelldev/daily-leetcode-journey/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/farelldev/daily-leetcode-journey/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/farelldev/daily-leetcode-journey/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/farelldev/daily-leetcode-journey/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/farelldev/daily-leetcode-journey/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/farelldev/daily-leetcode-journey/tree/master/0981-time-based-key-value-store) |
 ## Bit Manipulation
 |  |
