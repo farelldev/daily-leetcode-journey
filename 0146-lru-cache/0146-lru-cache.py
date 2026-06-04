@@ -13,8 +13,6 @@ class LRUCache:
         return -1
 
     def put(self, key: int, value: int) -> None:
-        
-
         if key not in self.cache: 
             if len(self.cache) == self.capacity:
                 least = self.order.pop(0)
