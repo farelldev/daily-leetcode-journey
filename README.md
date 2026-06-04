@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/farelldev/daily-leetcode-journey/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/farelldev/daily-leetcode-journey/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/farelldev/daily-leetcode-journey/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/farelldev/daily-leetcode-journey/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/farelldev/daily-leetcode-journey/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/farelldev/daily-leetcode-journey/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/farelldev/daily-leetcode-journey/tree/master/0347-top-k-frequent-elements) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/farelldev/daily-leetcode-journey/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/farelldev/daily-leetcode-journey/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/farelldev/daily-leetcode-journey/tree/master/0143-reorder-list) |
+| [0287-find-the-duplicate-number](https://github.com/farelldev/daily-leetcode-journey/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/farelldev/daily-leetcode-journey/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/farelldev/daily-leetcode-journey/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/farelldev/daily-leetcode-journey/tree/master/0696-count-binary-substrings) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/farelldev/daily-leetcode-journey/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/farelldev/daily-leetcode-journey/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/farelldev/daily-leetcode-journey/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/farelldev/daily-leetcode-journey/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/farelldev/daily-leetcode-journey/tree/master/0875-koko-eating-bananas) |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/farelldev/daily-leetcode-journey/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/farelldev/daily-leetcode-journey/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/farelldev/daily-leetcode-journey/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/farelldev/daily-leetcode-journey/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/farelldev/daily-leetcode-journey/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/farelldev/daily-leetcode-journey/tree/master/0693-binary-number-with-alternating-bits) |
