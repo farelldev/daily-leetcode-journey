@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/farelldev/daily-leetcode-journey/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/farelldev/daily-leetcode-journey/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/farelldev/daily-leetcode-journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/farelldev/daily-leetcode-journey/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/farelldev/daily-leetcode-journey/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/farelldev/daily-leetcode-journey/tree/master/0042-trapping-rain-water) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/farelldev/daily-leetcode-journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/farelldev/daily-leetcode-journey/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/farelldev/daily-leetcode-journey/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/farelldev/daily-leetcode-journey/tree/master/0300-longest-increasing-subsequence) |
