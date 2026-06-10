@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/farelldev/daily-leetcode-journey/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/farelldev/daily-leetcode-journey/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/farelldev/daily-leetcode-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/farelldev/daily-leetcode-journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/farelldev/daily-leetcode-journey/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/farelldev/daily-leetcode-journey/tree/master/0039-combination-sum) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/farelldev/daily-leetcode-journey/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/farelldev/daily-leetcode-journey/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/farelldev/daily-leetcode-journey/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/farelldev/daily-leetcode-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/farelldev/daily-leetcode-journey/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/farelldev/daily-leetcode-journey/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/farelldev/daily-leetcode-journey/tree/master/0141-linked-list-cycle) |
