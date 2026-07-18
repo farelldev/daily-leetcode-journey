@@ -3,14 +3,16 @@ class Solution:
         def cntDistance(x, y):
             return sqrt(x ** 2 + y ** 2)
 
-        dPair = [(i, cntDistance(i[0], i[1])) for i in points]
+        h = []
+        heapq.heapify(h)
 
-        d = [i[1] for i in dPair]
+        for i in points: 
+            heapq.heappush(h, (-cntDistance(i[0], i[1]), i))
 
-        d.sort()
+            if len(h) > k: heapq.heappop(h)
 
         res = []
-        for i in dPair:
-            if i[1] <= d[k - 1]: res.append(i[0])
-
+        for i in h:
+            res.append(i[1])
+        
         return res
