@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/farelldev/daily-leetcode-journey/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/farelldev/daily-leetcode-journey/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/farelldev/daily-leetcode-journey/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/farelldev/daily-leetcode-journey/tree/master/1046-last-stone-weight) |
 | [1470-shuffle-the-array](https://github.com/farelldev/daily-leetcode-journey/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/farelldev/daily-leetcode-journey/tree/master/1929-concatenation-of-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/farelldev/daily-leetcode-journey/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/farelldev/daily-leetcode-journey/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/farelldev/daily-leetcode-journey/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/farelldev/daily-leetcode-journey/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/farelldev/daily-leetcode-journey/tree/master/1046-last-stone-weight) |
 ## Merge Sort
 |  |
 | ------- |
