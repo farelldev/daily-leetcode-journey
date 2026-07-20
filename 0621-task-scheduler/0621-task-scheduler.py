@@ -16,9 +16,8 @@ class Solution:
                 most += 1
                 if most != 0: q.append((most, time + n))
 
-            if q:
-                if q[0][1] == time:
-                    left = q.popleft()
-                    heapq.heappush(h, left[0])
+            if q and q[0][1] == time:
+                left = q.popleft()
+                heapq.heappush(h, left[0])
 
         return time
