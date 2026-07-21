@@ -1,19 +1,51 @@
-class Twitter(object):
+class Twitter:
 
     def __init__(self):
-        self.timer = itertools.count(step=-1)
-        self.tweets = collections.defaultdict(collections.deque)
-        self.followees = collections.defaultdict(set)
+        self.following = {}
+        self.posting = {}
+        self.order = 0
 
-    def postTweet(self, userId, tweetId):
-        self.tweets[userId].appendleft((next(self.timer), tweetId))
+    def postTweet(self, userId: int, tweetId: int) -> None:
+        self.order -= 1
+        if userId not in self.posting: 
+            self.posting[userId] = [(self.order, tweetId)]
+        else: self.posting[userId].append((self.order, tweetId))
 
-    def getNewsFeed(self, userId):
-        tweets = heapq.merge(*(self.tweets[u] for u in self.followees[userId] | {userId}))
-        return [t for _, t in itertools.islice(tweets, 10)]
+    def getNewsFeed(self, userId: int) -> List[int]:
+        allTweet = []
+        if userId in self.posting:
+            for i in self.posting[userId]:
+                allTweet.append(i)
 
-    def follow(self, followerId, followeeId):
-        self.followees[followerId].add(followeeId)
+        if userId in self.following:
+            for i in self.following[userId]:
+                if i in self.posting:
+                    for j in self.posting[i]:
+                        allTweet.append(j)
 
-    def unfollow(self, followerId, followeeId):
-        self.followees[followerId].discard(followeeId)
+        feed, posts = [], 0
+        heapq.heapify(allTweet)
+        while allTweet and posts < 10:
+            posts += 1
+            recent = heapq.heappop(allTweet)        
+            feed.append(recent[1])
+
+        return feed
+
+    def follow(self, followerId: int, followeeId: int) -> None:
+        if followerId not in self.following:
+            self.following[followerId] = {followeeId}
+        else: self.following[followerId].add(followeeId)
+        
+    def unfollow(self, followerId: int, followeeId: int) -> None:
+        if followerId not in self.following:
+            return
+        else: self.following[followerId].remove(followeeId)
+
+
+# Your Twitter object will be instantiated and called as such:
+# obj = Twitter()
+# obj.postTweet(userId,tweetId)
+# param_2 = obj.getNewsFeed(userId)
+# obj.follow(followerId,followeeId)
+# obj.unfollow(followerId,followeeId)
