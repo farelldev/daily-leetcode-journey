@@ -1,25 +1,27 @@
 class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:
-        ans = 0
+        row = len(grid)
+        col = len(grid[0])
 
-        def dfs(x, y):
-            outX = x < 0 or x > len(grid[0]) - 1
-            outY = y < 0 or y > len(grid) - 1
-            outBound = outX or outY
+        seen = [[False for _ in range(col)] for _ in range(row)]
+        res = 0
 
-            if outBound or grid[y][x] == '0':
+        def bfs(x, y):
+            if x == len(grid) or y == len(grid[0]) or x == -1 or y == -1 or seen[x][y] == True or grid[x][y] == '0':
                 return
 
-            grid[y][x] = '0'
-            dfs(x+1,y)
-            dfs(x-1,y)
-            dfs(x,y+1)
-            dfs(x,y-1)
-        
-        for i in range(len(grid)):
-            for j in range(len(grid[i])):
-                if grid[i][j] == '1':
-                    ans += 1
-                    dfs(j, i)
+            seen[x][y] = True
+            bfs(x, y + 1)
+            bfs(x + 1, y)
+            bfs(x, y - 1)
+            bfs(x - 1, y)
 
-        return ans
+        for i in range(row):
+            for j in range(col):
+                if grid[i][j] == '1' and seen[i][j] == False:
+                    bfs(i, j)
+                    res += 1
+                    print(i, j)
+
+        print(seen)
+        return res
