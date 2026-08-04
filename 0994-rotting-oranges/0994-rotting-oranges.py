@@ -7,11 +7,15 @@ class Solution:
         dirs = [(1,0), (0,1), (-1,0), (0,-1)]
         q = deque()
         res = 0
+        freshRemain = 0
 
         for i in range(row):
             for j in range(col):
                 if grid[i][j] == 2:
                     q.append((i, j))
+
+                if grid[i][j] == 1:
+                    freshRemain += 1
 
         while q:
             manyRot = len(q)
@@ -26,13 +30,11 @@ class Solution:
                     if 0 <= adj[0] < row and 0 <= adj[1] < col and grid[adj[0]][adj[1]] == 1:
                         grid[adj[0]][adj[1]] = 2
                         q.append(adj)
+                        freshRemain -= 1
                         rotting = True
 
             if rotting: res += 1
 
-        for i in range(row):
-            for j in range(col):
-                if grid[i][j] == 1:
-                    res = -1
+        if freshRemain: res = -1
 
         return res
