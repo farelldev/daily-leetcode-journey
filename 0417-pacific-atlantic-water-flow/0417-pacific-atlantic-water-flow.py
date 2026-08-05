@@ -16,7 +16,7 @@ class Solution:
                     adjX = i + dx
                     adjY = j + dy
                     if 0 <= adjX < row and 0 <= adjY < col and heights[i][j] <= heights[adjX][adjY]:
-                        dfs(i + dx, j + dy, ocean)
+                        dfs(adjX, adjY, ocean)
 
         for i in range(row):
             dfs(i, 0, canPac)
