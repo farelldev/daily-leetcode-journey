@@ -19,8 +19,8 @@ class Solution:
             res = curr[0]
 
             for i in neig[curr[1]]:
-                heapq.heappush(frontier, (curr[0] + i[1], i[0]))
+                if i[0] not in visit:
+                    heapq.heappush(frontier, (curr[0] + i[1], i[0]))
 
         if len(visit) != n: res = -1
-        print(visit)
         return res
