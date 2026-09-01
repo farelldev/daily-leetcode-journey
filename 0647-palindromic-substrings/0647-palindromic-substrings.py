@@ -1,18 +1,17 @@
 class Solution:
     def countSubstrings(self, s: str) -> int:
-        res = 0
-
+        count = 0
+        
+        def expand(left, right):
+            res = 0
+            while left >= 0 and right < len(s) and s[left] == s[right]:
+                res += 1
+                left -= 1
+                right += 1
+            return res
+            
         for i in range(len(s)):
-            r = l = i
-            while l >= 0 and r < len(s) and s[l] == s[r]:
-                res += 1
-                r += 1
-                l -= 1
-
-            l, r = i, i+1
-            while l >= 0 and r < len(s) and s[l] == s[r]:
-                res += 1
-                r += 1
-                l -= 1
-
-        return res
+            count += expand(i, i)
+            count += expand(i, i + 1)
+            
+        return count
