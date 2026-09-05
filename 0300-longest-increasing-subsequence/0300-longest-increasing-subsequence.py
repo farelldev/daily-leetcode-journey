@@ -1,10 +1,18 @@
 class Solution:
     def lengthOfLIS(self, nums: List[int]) -> int:
-        dp = [1] * len(nums)
+        order = {}
 
-        for i in range(len(nums)):
-            for sub in range(i):
-                if nums[sub] < nums[i]:
-                    dp[i] = max(dp[i], 1 + dp[sub])
+        order[1] = nums[len(nums) - 1]
+        cnt = 1
+        for i in range(len(nums) - 1, -1, -1):
+            if i != len(nums) - 1:
+                for j in range(1, cnt + 1):
+                    if nums[i] > order[j]:
+                        order[j] = nums[i]
+                        break
+                    if nums[i] == order[j]: break
+                else:
+                    cnt += 1
+                    order[cnt] = nums[i]
 
-        return max(dp)
+        return cnt
