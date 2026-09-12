@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/farelldev/daily-leetcode-journey/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/farelldev/daily-leetcode-journey/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/farelldev/daily-leetcode-journey/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/farelldev/daily-leetcode-journey/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/farelldev/daily-leetcode-journey/tree/master/0518-coin-change-ii) |
 | [0621-task-scheduler](https://github.com/farelldev/daily-leetcode-journey/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/farelldev/daily-leetcode-journey/tree/master/0645-set-mismatch) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/farelldev/daily-leetcode-journey/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/farelldev/daily-leetcode-journey/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/farelldev/daily-leetcode-journey/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/farelldev/daily-leetcode-journey/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/farelldev/daily-leetcode-journey/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/farelldev/daily-leetcode-journey/tree/master/0647-palindromic-substrings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/farelldev/daily-leetcode-journey/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/farelldev/daily-leetcode-journey/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/farelldev/daily-leetcode-journey/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/farelldev/daily-leetcode-journey/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/farelldev/daily-leetcode-journey/tree/master/0494-target-sum) |
 ## Graph Theory
 |  |
 | ------- |
@@ -570,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/farelldev/daily-leetcode-journey/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/farelldev/daily-leetcode-journey/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/farelldev/daily-leetcode-journey/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
@@ -580,4 +584,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/farelldev/daily-leetcode-journey/tree/master/0300-longest-increasing-subsequence) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/farelldev/daily-leetcode-journey/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
