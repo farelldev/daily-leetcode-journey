@@ -1,10 +1,11 @@
 class Solution:
-    def canJump(self, nums: List[int]) -> bool:
+    def canJump(self, nums: list[int]) -> bool:
         farthest = 0
+        n = len(nums)
 
-        for i in range(len(nums)):
-            if i > farthest:
-                return False
-            farthest = max(farthest, i + nums[i])
+        for i in range(n):
+            if farthest >= n - 1: return True
+            if i > farthest: return False
 
-        return True
+            if i + nums[i] > farthest:
+                farthest = i + nums[i]
