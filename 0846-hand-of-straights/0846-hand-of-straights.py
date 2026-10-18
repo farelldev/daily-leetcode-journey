@@ -2,15 +2,17 @@ class Solution:
     def isNStraightHand(self, hand: list[int], groupSize: int) -> bool:
         if len(hand) % groupSize != 0: return False
         hand = sorted(hand)
+        freq = {i : 0 for i in hand}
+        for i in hand: freq[i] += 1
 
-        while len(hand) != 0:
-            smallest = hand[0]
-            hand.remove(smallest)
+        for i in hand:
+            if freq[i] == 0: continue
 
-            for _ in range(groupSize - 1):
+            smallest = i
+            for i in range(groupSize):
+                if smallest not in freq or freq[smallest] == 0: return False
+
+                freq[smallest] -= 1
                 smallest += 1
-
-                if smallest not in hand: return False
-                hand.remove(smallest)
 
         return True
