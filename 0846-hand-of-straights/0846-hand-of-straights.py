@@ -1,18 +1,17 @@
 class Solution:
     def isNStraightHand(self, hand: list[int], groupSize: int) -> bool:
         if len(hand) % groupSize != 0: return False
-        hand = sorted(hand)
-        freq = {i : 0 for i in hand}
-        for i in hand: freq[i] += 1
 
-        for i in hand:
-            if freq[i] == 0: continue
+        hand.sort()
+        freq = Counter(hand)
 
-            smallest = i
-            for i in range(groupSize):
-                if smallest not in freq or freq[smallest] == 0: return False
+        for card in hand:
+            if freq[card] == 0: continue
 
-                freq[smallest] -= 1
-                smallest += 1
+            for value in range(card, card + groupSize):
+                if freq[value] == 0:
+                    return False
+
+                freq[value] -= 1
 
         return True
