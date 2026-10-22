@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/farelldev/daily-leetcode-journey/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/farelldev/daily-leetcode-journey/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/farelldev/daily-leetcode-journey/tree/master/0696-count-binary-substrings) |
+| [0763-partition-labels](https://github.com/farelldev/daily-leetcode-journey/tree/master/0763-partition-labels) |
 ## Greedy
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/farelldev/daily-leetcode-journey/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/farelldev/daily-leetcode-journey/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/farelldev/daily-leetcode-journey/tree/master/0621-task-scheduler) |
+| [0763-partition-labels](https://github.com/farelldev/daily-leetcode-journey/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/farelldev/daily-leetcode-journey/tree/master/0846-hand-of-straights) |
 ## Hash Table
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/farelldev/daily-leetcode-journey/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/farelldev/daily-leetcode-journey/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/farelldev/daily-leetcode-journey/tree/master/0645-set-mismatch) |
+| [0763-partition-labels](https://github.com/farelldev/daily-leetcode-journey/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/farelldev/daily-leetcode-journey/tree/master/0846-hand-of-straights) |
 | [0981-time-based-key-value-store](https://github.com/farelldev/daily-leetcode-journey/tree/master/0981-time-based-key-value-store) |
 ## Math
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/farelldev/daily-leetcode-journey/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/farelldev/daily-leetcode-journey/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/farelldev/daily-leetcode-journey/tree/master/0696-count-binary-substrings) |
+| [0763-partition-labels](https://github.com/farelldev/daily-leetcode-journey/tree/master/0763-partition-labels) |
 | [0981-time-based-key-value-store](https://github.com/farelldev/daily-leetcode-journey/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/farelldev/daily-leetcode-journey/tree/master/1143-longest-common-subsequence) |
 ## Enumeration
