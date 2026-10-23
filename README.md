@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/farelldev/daily-leetcode-journey/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/farelldev/daily-leetcode-journey/tree/master/1046-last-stone-weight) |
 | [1470-shuffle-the-array](https://github.com/farelldev/daily-leetcode-journey/tree/master/1470-shuffle-the-array) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/farelldev/daily-leetcode-journey/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1929-concatenation-of-array](https://github.com/farelldev/daily-leetcode-journey/tree/master/1929-concatenation-of-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/farelldev/daily-leetcode-journey/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3379-transformed-array](https://github.com/farelldev/daily-leetcode-journey/tree/master/3379-transformed-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/farelldev/daily-leetcode-journey/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/farelldev/daily-leetcode-journey/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/farelldev/daily-leetcode-journey/tree/master/0846-hand-of-straights) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/farelldev/daily-leetcode-journey/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Hash Table
 |  |
 | ------- |
