@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/farelldev/daily-leetcode-journey/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/farelldev/daily-leetcode-journey/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/farelldev/daily-leetcode-journey/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/farelldev/daily-leetcode-journey/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/farelldev/daily-leetcode-journey/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/farelldev/daily-leetcode-journey/tree/master/0846-hand-of-straights) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/farelldev/daily-leetcode-journey/tree/master/1899-merge-triplets-to-form-target-triplet) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/farelldev/daily-leetcode-journey/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/farelldev/daily-leetcode-journey/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/farelldev/daily-leetcode-journey/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/farelldev/daily-leetcode-journey/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/farelldev/daily-leetcode-journey/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/farelldev/daily-leetcode-journey/tree/master/1143-longest-common-subsequence) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/farelldev/daily-leetcode-journey/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/farelldev/daily-leetcode-journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/farelldev/daily-leetcode-journey/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/farelldev/daily-leetcode-journey/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/farelldev/daily-leetcode-journey/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/farelldev/daily-leetcode-journey/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/farelldev/daily-leetcode-journey/tree/master/0763-partition-labels) |
 | [0981-time-based-key-value-store](https://github.com/farelldev/daily-leetcode-journey/tree/master/0981-time-based-key-value-store) |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/farelldev/daily-leetcode-journey/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/farelldev/daily-leetcode-journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/farelldev/daily-leetcode-journey/tree/master/0155-min-stack) |
+| [0678-valid-parenthesis-string](https://github.com/farelldev/daily-leetcode-journey/tree/master/0678-valid-parenthesis-string) |
 | [0853-car-fleet](https://github.com/farelldev/daily-leetcode-journey/tree/master/0853-car-fleet) |
 ## Trie
 |  |
@@ -625,4 +629,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/farelldev/daily-leetcode-journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/farelldev/daily-leetcode-journey/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
