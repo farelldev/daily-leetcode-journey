@@ -1,21 +1,17 @@
 class Solution:
-    def insert(self, intervals: List[List[int]], newInterval: List[int]) -> List[List[int]]:
+    def insert(self, intervals: list[list[int]], newInterval: list[int]) -> list[list[int]]:
         res = []
 
         for i in range(len(intervals)):
-            if newInterval[1] < intervals[i][0]: # If newIn behind interval
-                res.append(newInterval) # Append the newIn
-                return res + intervals[i:]  # Return it right away
+            curr = intervals[i]
 
-            elif newInterval[0] > intervals[i][1]: # If interval behind newIn 
-                res.append(intervals[i])    # Append that interval
+            if newInterval[1] < curr[0]:
+                res.append(newInterval)
+                return res + intervals[i:]
+            elif newInterval[0] > curr[1]:
+                res.append(curr)
+            else:
+                newInterval = [min(curr[0], newInterval[0]), max(curr[1], newInterval[1])]
 
-            else: # If overlapping
-                # Extend newInterval
-                newInterval = [min(newInterval[0], intervals[i][0]),
-                    max(newInterval[1], intervals[i][1])]
-
-        # Append newInterval at the end
         res.append(newInterval)
-
         return res
