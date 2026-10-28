@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/farelldev/daily-leetcode-journey/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/farelldev/daily-leetcode-journey/tree/master/1046-last-stone-weight) |
 | [1470-shuffle-the-array](https://github.com/farelldev/daily-leetcode-journey/tree/master/1470-shuffle-the-array) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/farelldev/daily-leetcode-journey/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/farelldev/daily-leetcode-journey/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1929-concatenation-of-array](https://github.com/farelldev/daily-leetcode-journey/tree/master/1929-concatenation-of-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/farelldev/daily-leetcode-journey/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/farelldev/daily-leetcode-journey/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/farelldev/daily-leetcode-journey/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/farelldev/daily-leetcode-journey/tree/master/0981-time-based-key-value-store) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/farelldev/daily-leetcode-journey/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/farelldev/daily-leetcode-journey/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/farelldev/daily-leetcode-journey/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/farelldev/daily-leetcode-journey/tree/master/0973-k-closest-points-to-origin) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/farelldev/daily-leetcode-journey/tree/master/1851-minimum-interval-to-include-each-query) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/farelldev/daily-leetcode-journey/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Simulation
 |  |
@@ -507,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/farelldev/daily-leetcode-journey/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/farelldev/daily-leetcode-journey/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/farelldev/daily-leetcode-journey/tree/master/1046-last-stone-weight) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/farelldev/daily-leetcode-journey/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Merge Sort
 |  |
 | ------- |
@@ -633,4 +637,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/farelldev/daily-leetcode-journey/tree/master/0678-valid-parenthesis-string) |
+## Sweep Line
+|  |
+| ------- |
+| [1851-minimum-interval-to-include-each-query](https://github.com/farelldev/daily-leetcode-journey/tree/master/1851-minimum-interval-to-include-each-query) |
 <!---LeetCode Topics End-->
