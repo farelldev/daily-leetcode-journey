@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/farelldev/daily-leetcode-journey/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/farelldev/daily-leetcode-journey/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/farelldev/daily-leetcode-journey/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/farelldev/daily-leetcode-journey/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/farelldev/daily-leetcode-journey/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/farelldev/daily-leetcode-journey/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/farelldev/daily-leetcode-journey/tree/master/0079-word-search) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/farelldev/daily-leetcode-journey/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/farelldev/daily-leetcode-journey/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/farelldev/daily-leetcode-journey/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/farelldev/daily-leetcode-journey/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/farelldev/daily-leetcode-journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/farelldev/daily-leetcode-journey/tree/master/0202-happy-number) |
