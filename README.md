@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-minimum-interval-to-include-each-query](https://github.com/farelldev/daily-leetcode-journey/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/farelldev/daily-leetcode-journey/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1929-concatenation-of-array](https://github.com/farelldev/daily-leetcode-journey/tree/master/1929-concatenation-of-array) |
+| [2013-detect-squares](https://github.com/farelldev/daily-leetcode-journey/tree/master/2013-detect-squares) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/farelldev/daily-leetcode-journey/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3379-transformed-array](https://github.com/farelldev/daily-leetcode-journey/tree/master/3379-transformed-array) |
 | [3637-trionic-array-i](https://github.com/farelldev/daily-leetcode-journey/tree/master/3637-trionic-array-i) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/farelldev/daily-leetcode-journey/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/farelldev/daily-leetcode-journey/tree/master/0846-hand-of-straights) |
 | [0981-time-based-key-value-store](https://github.com/farelldev/daily-leetcode-journey/tree/master/0981-time-based-key-value-store) |
+| [2013-detect-squares](https://github.com/farelldev/daily-leetcode-journey/tree/master/2013-detect-squares) |
 ## Math
 |  |
 | ------- |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/farelldev/daily-leetcode-journey/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/farelldev/daily-leetcode-journey/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0981-time-based-key-value-store](https://github.com/farelldev/daily-leetcode-journey/tree/master/0981-time-based-key-value-store) |
+| [2013-detect-squares](https://github.com/farelldev/daily-leetcode-journey/tree/master/2013-detect-squares) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -556,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/farelldev/daily-leetcode-journey/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/farelldev/daily-leetcode-journey/tree/master/0621-task-scheduler) |
+| [2013-detect-squares](https://github.com/farelldev/daily-leetcode-journey/tree/master/2013-detect-squares) |
 ## Quickselect
 |  |
 | ------- |
@@ -589,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/farelldev/daily-leetcode-journey/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/farelldev/daily-leetcode-journey/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2013-detect-squares](https://github.com/farelldev/daily-leetcode-journey/tree/master/2013-detect-squares) |
 ## Bidirectional Search
 |  |
 | ------- |
